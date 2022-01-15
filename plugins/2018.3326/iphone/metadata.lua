@@ -3,8 +3,8 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = { 'APDChartboostAdapter', },
-		frameworks = { 'Chartboost', },
+		staticLibs = { },
+		frameworks = { },
 		frameworksOptional = {},
 	},
 }
